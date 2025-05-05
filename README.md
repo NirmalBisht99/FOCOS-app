@@ -3,6 +3,10 @@ This FOCOS project will be built on MERN stack and Electron.js.The main goal of 
 
 Team NAMOH
 Mayank (leader saab)
+
 Nirmal 
+
 Ashish 
+
 Harsh
+
